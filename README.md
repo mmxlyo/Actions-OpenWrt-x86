@@ -9,7 +9,7 @@
 A template for building OpenWrt with GitHub Actions
 * Connect to the router ssh and run the lenyu or lenyu-auto command to automatically detect and update the firmware
 * It can be added to the router's scheduled tasks to achieve fully automated firmware update
-*基于lenyu2020增加docker方便使用
+* 基于lenyu2020增加docker方便使用
 ## Thanks
 
 - P3TERX
@@ -17,7 +17,7 @@ A template for building OpenWrt with GitHub Actions
 - coolsnowwolf
 - xiaorouji
 - vernesong
--lenyu2020
+- lenyu2020
 - ...
 
 
